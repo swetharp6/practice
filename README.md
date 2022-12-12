@@ -1,2 +1,7 @@
-# practice
-this repository is created as part of the internal training
+# Practice
+
+this is the first repository
+
+## Initial Commit
+
+Readme File
